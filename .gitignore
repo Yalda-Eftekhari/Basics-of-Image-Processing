@@ -1,0 +1,4 @@
+*.zip
+__MACOSX/
+.ipynb_checkpoints/
+.DS_Store
